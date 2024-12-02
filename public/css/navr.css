@@ -1,0 +1,56 @@
+
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif; /* Fuente moderna */
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white !important;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    color: gold !important; /* Efecto épico en hover */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: white;
+}
+
+.btn-danger {
+    border-radius: 25px; /* Botón redondeado */
+    font-weight: bold;
+}
+
+.navbar-text {
+    font-size: 1rem;
+    margin-right: 15px;
+    color: lightblue;
+}
+.navbar-text {
+    font-size: 1rem;
+    margin-right: 20px; /* Separación del texto y los botones */
+    color: lightblue;
+    font-weight: bold;
+}
+
+.nav-item {
+    margin-left: 10px; /* Espaciado horizontal entre los botones */
+}
+
+.btn-danger {
+    border-radius: 25px; /* Botón redondeado */
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+    color: gold !important; /* Efecto épico en hover */
+}
